@@ -1,1 +1,1 @@
-Piraguero allows you to quickly build no-registration e-commerce stores in with PayPal integration.
+Piraguero allows you to quickly build no-registration e-commerce stores with PayPal integration.
