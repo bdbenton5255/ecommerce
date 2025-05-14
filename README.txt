@@ -1,1 +1,1 @@
-Piraguero allows you to quickly build no-registration e-commerce stores with PayPal integration.
+Customizable ecommerce store in Python's Django with PayPal payment integration.
