@@ -38,8 +38,6 @@ def cart(request):
     return render(request, 'store/cart.html', context)
 
 def checkout(request):
-
-
     
     data = cartData(request)
     cartItems = data['cartItems']
